@@ -1,7 +1,7 @@
 - Hi, I’m @Voidyll
-- My interests are website programming and game development. I'm very new to the programming work but hope to continue improving as I move into college and the professional world.
-- I’m currently learning and experimenting with website development.
-- I am most experienced with HTML, JavaScript, CSS, C# and some Python.
+- My interests are website programming and game development. I'm somewhat fresh to the programming world, but am ambitious to keep improving!
+- I’m currently learning and experimenting with game development
+- I am most experienced with HTML, JavaScript, CSS, C#, Java and some Python.
 
 <!---
 Voidyll/Voidyll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
